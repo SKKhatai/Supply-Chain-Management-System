@@ -108,7 +108,6 @@ GET /product/supplier/{supplierId}
 
 DELETE /product
 
-Suppliers
 POST /supplier
 
 GET /supplier/{id}

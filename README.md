@@ -44,16 +44,6 @@ This system can be used by businesses to manage their inventory, track orders us
   spring.jpa.show-sql=true
 3.**Test with Postman** (JSON Input/Output)
   All endpoints expect and return JSON. Below are key examples you can test:
-
-    ➕ Create Customer
-    POST /customer
-    Request Body:
-   {
-  "name": "Rohit Sharma",
-  "email": "hitman@gmail.com",
-  "address": "Mumbai"
-  }
-
   🔍 Track Order by Tracking Number
   GET /orders/tracking/{trackingNumber}
   Example:

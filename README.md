@@ -85,7 +85,6 @@ GET /orders/tracking/{trackingNumber}
 
 DELETE /orders/delete/all
 
-Products
 POST /product
 
 GET /product/{id}

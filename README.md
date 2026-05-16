@@ -40,7 +40,6 @@ This system can be used by businesses to manage their inventory, track orders us
    spring.datasource.url=jdbc:mysql://localhost:3306/supply_chain_db
   spring.datasource.username=root
   spring.datasource.password=user
-  spring.jpa.hibernate.ddl-auto=update
   spring.jpa.show-sql=true
 3.**Test with Postman** (JSON Input/Output)
   All endpoints expect and return JSON. Below are key examples you can test:

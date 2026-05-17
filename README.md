@@ -80,8 +80,6 @@ PUT /orders
 
 GET /orders/customers/{customerId}
 
-GET /orders/tracking/{trackingNumber}
-
 DELETE /orders/delete/all
 
 POST /product

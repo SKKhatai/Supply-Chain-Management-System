@@ -98,8 +98,6 @@ POST /supplier
 
 GET /supplier/{id}
 
-GET /supplier
-
 PUT /supplier
 
 DELETE /supplier

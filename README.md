@@ -2,7 +2,7 @@
 
 The **Supply Chain Management System** is a Java Spring Boot backend application designed to manage and streamline business operations involving customers, suppliers, products, and orders. It exposes RESTful APIs for creating, reading, updating, and deleting (CRUD) records, and supports data persistence using a MySQL database.
 
-This system can be used by businesses to manage their inventory, track orders using tracking numbers, associate products with suppliers, and handle customer-related order data.
+This system can be used by businesses to manage their inventory, track orders using tracking numbers,  products with suppliers, and handle customer-related order data.
 
 ## 🚀 Features
 

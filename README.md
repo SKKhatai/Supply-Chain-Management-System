@@ -28,8 +28,6 @@ This system can be used by businesses to manage their inventory, track orders us
 - Java 17+
 - Maven
 - MySQL Server
-- IDE  Eclipse
-
 ### Setup Instructions
 
 1. **Clone the repository**

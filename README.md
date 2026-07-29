@@ -44,7 +44,7 @@ This system can be used by businesses to manage their inventory, track orders us
   🔍 Track Order by Tracking Number
   GET /orders/tracking/{trackingNumber}
   Example:
-  GET /orders/tracking/ABC123456
+  GET /orders/tracking/?
   
   📦 Get Products by Supplier ID
   GET /product/supplier/{supplierId}

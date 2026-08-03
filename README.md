@@ -15,7 +15,7 @@ This system can be used by businesses to manage their inventory, track orders us
 
 ## ⚙️ Tech Stack
 
-- **Language**: Java 17+
+- **Language**: Java 21+
 - **Framework**: Spring Boot
 - **Database**: MySQL
 - **Build Tool**: Maven
@@ -25,7 +25,7 @@ This system can be used by businesses to manage their inventory, track orders us
 
 ### Prerequisites
 
-- Java 17+
+- Java 21+
 - Maven
 - MySQL Server
 ### Setup Instructions

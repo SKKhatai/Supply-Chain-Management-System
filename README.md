@@ -52,7 +52,7 @@ This system can be used by businesses to manage their inventory, track orders us
   
   ❌ Delete Supplier
   DELETE /supplier
-  This deletes all supplier records. Customize in your service if you want to delete by ID.  
+  This deletes all supplier records.  
 
 
 📘 API Reference Summary

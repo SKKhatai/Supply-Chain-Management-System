@@ -235,7 +235,7 @@ All endpoints return a uniform JSON format:
 ### Prerequisites
 
 Make sure you have installed:
-- **JDK 17 or higher** (`java -version`)
+- **JDK 21 or higher** (`java -version`)
 - **Apache Maven 3.8+** (`mvn -v`)
 - **PostgreSQL Database Server** running on port `5432`
 
